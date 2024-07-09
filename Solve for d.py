@@ -17,9 +17,9 @@ def mod_inverse(e, phi_n):
     else:
         return x % phi_n
 #Define known values.
-e = 43
-p = 83
-q = 13
+e = 
+p = 
+q = 
 phi_n = (p-1)*(q-1)
 
 
